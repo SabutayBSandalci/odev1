@@ -1,4 +1,4 @@
-﻿# Ödev1
+# Ödev1
 ## İlk Web Sayfamızı Oluşturmak
 -  Adımı ve soyadımı başlık şeklinde gösterdim.
 - Ad-Soyadın altında alt başlık olarak Hakkımda yazmıyor.
